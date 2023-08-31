@@ -1,6 +1,6 @@
 - 👋 Hi, I’m alireza alimohammadi
 - 👀 I’m interested in machine learning, neural network, ... 
-- 🌱 I’m currently learning civill engineering - trnasportation
+- 🌱 I’m currently learning civill engineering - transportation
 - 📫 How to reach me : alimohammadi1998.alireza@gmail.com
 
 <!---
